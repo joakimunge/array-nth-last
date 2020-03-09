@@ -1,6 +1,6 @@
 {
   "name": "array-nth-last",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Tiny library to get last, or nth last entry in array",
   "main": "index.js",
   "author": "Joakim Unge",
