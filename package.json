@@ -1,5 +1,5 @@
 {
-  "name": "@joakimunge/array-nth-last",
+  "name": "array-nth-last",
   "version": "0.2.0",
   "description": "Tiny library to get last, or nth last entry in array",
   "main": "index.js",

@@ -1,11 +1,17 @@
-# array-last
+# array-nth-last
 
-Tiny function to get _n_ last entry from array
+Tiny function to get _nth_ last entry from array
 
 ## Install
 
 ```
-$ yarn add array-last
+$ yarn add array-nth-last
+```
+
+or
+
+```
+$ npm install array-nth-last --save
 ```
 
 ## Usage
