@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Joakim Unge",
   "license": "MIT",
+  "repository": "https://github.com/joakimunge/array-nth-last",
   "publishConfig": {
     "access": "public"
   },
@@ -17,5 +18,13 @@
   ],
   "devDependencies": {
     "ava": "^3.5.0"
-  }
+  },
+  "dependencies": {
+    "array-nth-last": "^0.2.1"
+  },
+  "keywords": [
+    "array",
+    "last",
+    "entry"
+  ]
 }
