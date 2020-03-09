@@ -1,3 +1,3 @@
-declare function last(array: Array<any>, n: number): any;
+declare function nthLast(array: Array<any>, n: number): any;
 
-export = last;
+export = nthLast;

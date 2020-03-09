@@ -1,7 +1,7 @@
 {
-  "name": "@joakimunge/array-last",
+  "name": "@joakimunge/array-nth-last",
   "version": "1.0.0",
-  "description": "Tiny library to get last, or n last entry in array",
+  "description": "Tiny library to get last, or nth last entry in array",
   "main": "index.js",
   "author": "Joakim Unge",
   "license": "MIT",
