@@ -11,7 +11,7 @@ $ yarn add array-last
 ## Usage
 
 ```javascript
-const last = require('array-last');
+const last = require('array-nth-last');
 
 const arr = [1, 2, 3, 4, 5];
 

@@ -10,7 +10,7 @@ test('last', t => {
 test('3rd last', t => {
   const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   const lastEntry = nthLast(arr, 2);
-  t.is(lastEntry, 7);
+  t.is(lastEntry, 8);
 });
 
 test('Invalid argument', t => {
